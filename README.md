@@ -1,6 +1,6 @@
 ### Olá, sou Anderson 👋
 
-💻 Analista Jr - Desenvolvedor Front-End 🌍 Brasileiro 🏠 São Paulo - Brasil
+💻  Desenvolvedor Front-End React 🌍 Brasileiro 🏠 São Paulo - Brasil
 
 
 ### Encontre-me por aqui:
